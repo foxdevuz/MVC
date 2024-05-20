@@ -1,0 +1,17 @@
+{
+    "name": "abdullajonov.uz/mvc",
+    "description": "This is a mvc using php to more understand how it works",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "AbdullajonovUz\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdullajonov.uz",
+            "email": "abdullajonovboburjon05@gmail.com"
+        }
+    ],
+    "require": {}
+}
