@@ -4,7 +4,10 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "AbdullajonovUz\\Mvc\\": "src/"
+            "App\\": "App/",
+            "Database\\": "database/",
+            "Resources\\": "resources/",
+            "Routes\\": "routes/"
         }
     },
     "authors": [
